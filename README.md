@@ -1,0 +1,1 @@
+# Take-values-of-length-and-breadth-of-rectangle-from-user-and-check-if-it-is-square-or-not-in-python
